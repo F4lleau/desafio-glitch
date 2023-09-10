@@ -1,0 +1,1 @@
+//Funciones para ayuda en el código 
